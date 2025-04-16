@@ -1,0 +1,35 @@
+
+a {
+    color: #66BFBF;
+}
+
+body {
+    background-color: #EAF6F6;
+}
+
+
+h1 {
+    color: #66BFBF;
+    font-family: Candara;
+}
+
+h3 {
+    font-size: 25px;
+    font-family: 'Goudy Old Style';
+}
+
+hr {
+    background-color: #E8F0F2;
+    border-style: dotted;
+    color: grey;
+    border-width: 0.3em 0 0;
+    width: 5%;
+}
+
+h3, h2 {
+    color: #66BFBF;
+}
+
+p {
+    letter-spacing: 0.02em;
+}
